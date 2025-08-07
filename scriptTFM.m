@@ -1,5 +1,5 @@
 % Iván Salas - 2019 - University of Cantabria
-% This is the first script I wrote in MATLAB for the analysis of technical, mechanical and environmental properties
+% This is the first basic script I wrote in MATLAB for the analysis of technical, mechanical and environmental properties
 % of alternative ceramic products, as part of my MSc thesis in Industrial Engineering Research.
 
 clear all
